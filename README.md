@@ -5,6 +5,8 @@ Generalized_framework_V2.py contains the code for testing individual within-codo
 
 Generalized_framework_V3.py contains the code for testing all (assuming a few restrictions) within-codon Interpretation Frameworks at once.
 
+[Song List](https://docs.google.com/document/d/1H2WqFh46SxRQdmDHeAnxCJIUzvgVl9-fe-KuK2qX6wM/edit?usp=sharing) has the music I listened to on repeat while working on this project.
+
 ### Introduction ###
 [This](https://docs.google.com/document/d/1fJm4VFJXzaQFAEqZuBsYYX4VEwT2wIqQ7nArpJahXto/edit?usp=sharing) paper contains a more in-depth look at the thought process. Unfortunately, it is nowhere near publishable and no doubt contains numerous errors as well as out-of-date information. Most notably, I've dropped using Carbon as a fundamental unit of organization (though the general logic still applies). 
 
