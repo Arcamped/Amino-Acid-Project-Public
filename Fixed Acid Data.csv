@@ -1,0 +1,65 @@
+AminoAcid,BasePairs
+Alanine,GCA
+Alanine,GCC
+Alanine,GCG
+Alanine,GCU
+Arginine,CGA
+Arginine,CGC
+Arginine,CGG
+Arginine,CGU
+Arginine,AGA
+Arginine,AGG
+Asparagine,AAC
+Asparagine,AAU
+Aspartic Acid,GAC
+Aspartic Acid,GAU
+Cysteine,UGC
+Cysteine,UGU
+Glutamic Acid,GAA
+Glutamic Acid,GAG
+Glutamine,CAA
+Glutamine,CAG
+Glycine,GGA
+Glycine,GGC
+Glycine,GGG
+Glycine,GGU
+Histidine,CAC
+Histidine,CAU
+Isoleucine,AUA
+Isoleucine,AUC
+Isoleucine,AUU
+Leucine,CUA
+Leucine,CUC
+Leucine,CUG
+Leucine,CUU
+Leucine,UUA
+Leucine,UUG
+Lysine,AAA
+Lysine,AAG
+Methionine,AUG
+Phenylalanine,UUC
+Phenylalanine,UUU
+Proline,CCA
+Proline,CCC
+Proline,CCG
+Proline,CCU
+Serine,UCA
+Serine,UCC
+Serine,UCG
+Serine,UCU
+Serine,AGC
+Serine,AGU
+Stop (Amber),UAG
+Stop (Ochre),UAA
+Stop (Opal),UGA
+Threonine,ACA
+Threonine,ACC
+Threonine,ACG
+Threonine,ACU
+Tryptophan,UGG
+Tyrosine,UAC
+Tyrosine,UAU
+Valine,GUA
+Valine,GUC
+Valine,GUG
+Valine,GUU
