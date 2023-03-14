@@ -22,12 +22,17 @@ A<sub>0</sub> - the presumed initial conditions (I, perhaps incorrectly, assume 
 
 B<sub>i</sub> - the final graph structure of the amino acid
 
+#### Key and Potentially Problematic Assumptions ####
+* I use physiological pH and the associated amino acid arrangements therein
+* Currently, I restrict Interpretation Frameworks to using a single codon (cannot reference existence of neighbors)
+* No backwards time steps. Effectively, only atoms present in the final graph state are considered for the analysis. This means that if time steps 1 and 2 use atoms that are not present at the end of 3, we would *not* pick up on that. Consider, for example, Aspartic Acid uses Xenon (for some reason), even though it doesn't appear in the final graph structure.
+
 
 ### Problem Statement (non-Technical) ###
 
-We're looking to see if there is a specific *type* of instruction set that nature uses when building an amino acid. If you're reading a set of instructions and come upon a passage that says, "A: put down three blocks in order 1, 2, 3", that's simple enough. However, what if the instruction set read, "A, if the next instruction is G: put down three blocks in order..." and right below that it read, "A, if the next instruction is C: put down *four* blocks in order..."? What happens if we get a "G" and then a "C"? 
+We're looking to see if there is a specific *type* of instruction set that nature uses when building an amino acid. If you're reading a set of instructions and come upon a passage that says, "A: put down three blocks in order 1, 2, 3", that's simple enough. However, what if the instruction set read, "A, if the next instruction is G: put down three blocks in order..." and right below that it read, "A, if the next instruction is C: put down *four* blocks in order..."?
 
-If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is.
+If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is. This lets us know the "Interpretation Framework" (how information is stored) that nature uses to build amino acids.
 
 ### Runtime ###
 
