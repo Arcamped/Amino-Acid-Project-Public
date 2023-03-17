@@ -12,6 +12,12 @@ Generalized_framework_V3.py contains the code for testing all (assuming a few re
 
 Finally, my background is in Economics -- not Biology, Computer Science, or Chemistry -- so please let me know if you see problems with my approach or have clarifying comments or questions. You can email me [here](Michael.ar.campbell@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/michael-campbell-73159b5a/).
 
+### Problem Statement (non-Technical) ###
+
+We're looking to see if there is a specific *type* of instruction set that nature uses when building an amino acid. If you're reading a set of instructions and come upon a passage that says, "A: put down three blocks in order 1, 2, 3", that's simple enough. However, what if the instruction set read, "A, if the next instruction is G: put down three blocks in order..." and right below that it read, "A, if the next instruction is C: put down *four* blocks in order..."?
+
+If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is. This lets us know the "Interpretation Framework" (how information is stored) that nature uses to build amino acids.
+
 ### Problem Statement (Technical) ###
 
 Let X<sub>i</sub> be a three dimensional vector with positions x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>. Each x<sub>i</sub> may take one of four possible values: [A, C, U, G]. Let A<sub>t</sub> be an undirected heterogeneous hypergraph of finite size at time t. Find the set of graph updates rules R that takes A<sub>0</sub> -> B<sub>i</sub> for every possible X<sub>i</sub> in precisely three time steps, where B<sub>i</sub> is an undirected heterogeneous hypergraph of finite size and known topology. Assume A<sub>0</sub> is empty, such that A<sub>0</sub> = [ ].
@@ -30,11 +36,6 @@ B<sub>i</sub> - the final graph structure of the amino acid
 * No backwards time steps. Effectively, only atoms present in the final graph state are considered for the analysis. This means that if time steps 1 and 2 use atoms that are not present at the end of 3, we would *not* pick up on that. Consider, for example, Aspartic Acid uses Xenon (for some reason), even though it doesn't appear in the final graph structure.
 
 
-### Problem Statement (non-Technical) ###
-
-We're looking to see if there is a specific *type* of instruction set that nature uses when building an amino acid. If you're reading a set of instructions and come upon a passage that says, "A: put down three blocks in order 1, 2, 3", that's simple enough. However, what if the instruction set read, "A, if the next instruction is G: put down three blocks in order..." and right below that it read, "A, if the next instruction is C: put down *four* blocks in order..."?
-
-If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is. This lets us know the "Interpretation Framework" (how information is stored) that nature uses to build amino acids.
 
 ### Runtime ###
 
