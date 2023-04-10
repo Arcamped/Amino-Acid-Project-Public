@@ -8,7 +8,8 @@ Generalized_framework_V3.py contains the code for testing all (assuming a few re
 [Song List](https://docs.google.com/document/d/1H2WqFh46SxRQdmDHeAnxCJIUzvgVl9-fe-KuK2qX6wM/edit?usp=sharing) has the music I listened to on repeat while working on this project.
 
 ### Introduction ###
-[This](https://docs.google.com/document/d/1fJm4VFJXzaQFAEqZuBsYYX4VEwT2wIqQ7nArpJahXto/edit?usp=sharing) paper contains a more in-depth look at the thought process. Unfortunately, it is nowhere near publishable and no doubt contains numerous errors as well as out-of-date information. Most notably, I've dropped using Carbon as a fundamental unit of organization (though the general logic still applies). 
+
+[This](https://docs.google.com/document/d/1fJm4VFJXzaQFAEqZuBsYYX4VEwT2wIqQ7nArpJahXto/edit?usp=sharing) paper contains a more in-depth look at the thought process. Unfortunately, it is nowhere near publishable and no doubt contains numerous errors as well as out-of-date information. Most notably, I've dropped using carbon as a fundamental unit of organization (though the general logic still applies). 
 
 Finally, my background is in Economics -- not Biology, Computer Science, or Chemistry -- so please let me know if you see problems with my approach or have clarifying comments or questions. You can email me [here](Michael.ar.campbell@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/michael-campbell-73159b5a/).
 
@@ -31,15 +32,20 @@ A<sub>0</sub> - the presumed initial conditions (I, perhaps incorrectly, assume 
 B<sub>i</sub> - the final graph structure of the amino acid
 
 #### Key and Potentially Problematic Assumptions ####
+
 * I use physiological pH and the associated amino acid arrangements therein
 * Currently, I restrict Interpretation Frameworks to using a single codon (cannot reference existence of neighbors)
-* No backwards time steps. Effectively, only atoms present in the final graph state are considered for the analysis. This means that if time steps 1 and 2 use atoms that are not present at the end of 3, we would *not* pick up on that. Consider, for example, Aspartic Acid uses Xenon (for some reason), even though it doesn't appear in the final graph structure.
+* No backwards time steps. Effectively, only atoms present in the final graph state are considered for the analysis. This means that if time steps 1 and 2 use atoms that are not present at the end of 3, we would *not* pick up on that. Consider, for example, if Aspartic Acid were to use Xenon (for some reason), even though it doesn't appear in the final graph structure.
 
+### Current State (as of 4/10/2023) and Next Steps ###
 
+After running the computations outlined in V3 and performing some subsequent analysis, I'm happy to report that we have progress! In short, of the ~900 Interpretation Frameworks tested, only the ones with (0, 3) in their first time step yield results. Additionally, *all* IFs with (0, 3) in the first time step have at least one solution. While there are several things this might mean, it's too early to speculate. 
+
+The current model, as an abstraction of reality, is incomplete, and we need to see if we can reduce the number of solutions. The most logical place to start will be to remove assumptions that were made for the sake of simplicity. Most notably, this means introducing bond angles to get a more accurate topological representation. I need to think through the implementation and meaning some, but that seems like most important next step (Well, and checking once more to ensure data quality). 
 
 ### Runtime ###
 
-Code is runable on a personal computer (though V3 may take up to 3 hours -- I promise to work on further optimization, eventually...*) 
+Code is runable on a personal computer (though V3 may take around 15 hours -- I promise to work on further optimization, eventually...*) 
 Most IFs seem to take 10k - 15k runs and ~10 minutes (though I haven't counted) with a i7-6700K running at the base 4GHz.
 
 "*" - Truthfully, I'll only get to this when there are less important things to work on and knowing how life works -- that might be never. Given the shape of the search space, it's far more important to test assumptions (no environmental transformations, no backwards time steps, etc.) than optimize something where runtime isn't really an issue. That said, I feel like the way I handle DFs is wasteful and rewrite that *would* be a good way to improve. Fingers crossed that I find the answer and never get to work on that :P 
