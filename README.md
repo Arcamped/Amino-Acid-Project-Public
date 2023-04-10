@@ -17,7 +17,10 @@ Finally, my background is in Economics -- not Biology, Computer Science, or Chem
 
 We're looking to see if there is a specific *type* of instruction set that nature uses when building an amino acid. If you're reading a set of instructions and come upon a passage that says, "A: put down three blocks in order 1, 2, 3", that's simple enough. However, what if the instruction set read, "A, if the next instruction is G: put down three blocks in order..." and right below that it read, "A, if the next instruction is C: put down *four* blocks in order..."?
 
-If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is. This lets us know the "Interpretation Framework" (how information is stored) that nature uses to build amino acids.
+If we solve the math problem stated above (using real world values for amino acids), we can determine if the instruction set cares what the letter (or letters) after the first is. This lets us know the "Interpretation Framework" (how information is stored) that nature uses to build amino acids. To explain this visually, look at the two labelled acids shown below, Phenylalanine (UUC, UUU) and Leucine (..., UUA, UUG). The two acids have codons that share the first two letters. Based on this, we can check to see which parts of the "puzzle" (where the parts are based on the numbers attached to each atom) the instructions refer to. If the instructions work one, but not the other, then we know it won't work; however, if they work for both, then we need to check the other acids!
+
+Phenylalanine: ![image](https://user-images.githubusercontent.com/38039634/230955671-d626acf3-224a-4db3-98b9-3cd284132633.png) Leucine: ![image](https://user-images.githubusercontent.com/38039634/230955715-f9849d7d-74c2-4a01-b09f-f55856a51654.png)
+
 
 ### Problem Statement (Technical) ###
 
