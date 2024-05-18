@@ -1,0 +1,104 @@
+{
+    "Alanine": [
+        "GCA",
+        "GCC",
+        "GCG",
+        "GCU"
+    ],
+    "Arginine": [
+        "CGA",
+        "CGC",
+        "CGG",
+        "CGU"
+    ],
+    "Asparagine": [
+        "AAC",
+        "AAU",
+        "AAA"
+    ],
+    "Aspartic Acid": [
+        "GAC",
+        "GAU"
+    ],
+    "Cysteine": [
+        "UGC",
+        "UGU"
+    ],
+    "Glutamic Acid": [
+        "GAA",
+        "GAG"
+    ],
+    "Glutamine": [
+        "CAA",
+        "CAG"
+    ],
+    "Glycine": [
+        "GGA",
+        "GGC",
+        "GGG",
+        "GGU"
+    ],
+    "Histidine": [
+        "CAC",
+        "CAU"
+    ],
+    "Isoleucine": [
+        "AUC",
+        "AUU"
+    ],
+    "Leucine": [
+        "CUA",
+        "CUC",
+        "CUG",
+        "CUU",
+        "UUA",
+        "UUG"
+    ],
+    "Lysine": [
+        "AAG"
+    ],
+    "Methionine": [
+        "AUG",
+        "AUA"
+    ],
+    "Phenylalanine": [
+        "UUC",
+        "UUU"
+    ],
+    "Proline": [
+        "CCA",
+        "CCC",
+        "CCG",
+        "CCU"
+    ],
+    "Serine": [
+        "AGC",
+        "AGU",
+        "AGA",
+        "AGG",
+        "UCA",
+        "UCC",
+        "UCG",
+        "UCU"
+    ],
+    "Threonine": [
+        "ACA",
+        "ACC",
+        "ACG",
+        "ACU"
+    ],
+    "Tryptophan": [
+        "UGG",
+        "UGA"
+    ],
+    "Tyrosine": [
+        "UAC",
+        "UAU"
+    ],
+    "Valine": [
+        "GUA",
+        "GUC",
+        "GUG",
+        "GUU"
+    ]
+}

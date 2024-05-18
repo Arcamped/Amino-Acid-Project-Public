@@ -1,0 +1,35 @@
+{"Time Dict":"time_dict_1","Group Number":"1","Subgroup":["Alanine","Glycine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"1","Subgroup":["Aspartic Acid","Glutamic Acid"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"1","Subgroup":["Valine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"2","Subgroup":["Methionine","Asparagine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"2","Subgroup":["Isoleucine","Arginine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"2","Subgroup":["Serine","Threonine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"2","Subgroup":["Lysine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"3","Subgroup":["Glutamine","Histidine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"3","Subgroup":["Leucine","Proline"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"4","Subgroup":["Cysteine","Phenylalanine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_1","Group Number":"4","Subgroup":["Tryptophan","Tyrosine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"1","Subgroup":["Serine","Alanine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"1","Subgroup":["Threonine","Proline"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"2","Subgroup":["Asparagine","Glutamic Acid"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"2","Subgroup":["Glutamine","Histidine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"2","Subgroup":["Aspartic Acid","Tyrosine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"2","Subgroup":["Lysine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"3","Subgroup":["Cysteine","Arginine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"3","Subgroup":["Tryptophan","Glycine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"4","Subgroup":["Leucine","Methionine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"4","Subgroup":["Isoleucine","Valine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_2","Group Number":"4","Subgroup":["Phenylalanine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Leucine","Glycine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Asparagine","Tyrosine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Glutamine","Lysine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Cysteine","Histidine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Isoleucine","Valine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Alanine","Threonine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Arginine","Proline"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Methionine","Tryptophan"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Serine","Glutamic Acid"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"1","Subgroup":["Aspartic Acid","Phenylalanine"],"Group Status":"not_disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"2","Subgroup":[null],"Group Status":"disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"3","Subgroup":[null],"Group Status":"disjointed"}
+{"Time Dict":"time_dict_3","Group Number":"4","Subgroup":[null],"Group Status":"disjointed"}

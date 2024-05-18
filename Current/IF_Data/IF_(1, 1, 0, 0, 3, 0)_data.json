@@ -1,0 +1,1914 @@
+{
+    "IF": [
+        1,
+        1,
+        0,
+        0,
+        3,
+        0
+    ],
+    "Jaccard Matrices": {
+        "time_dict_1": {
+            "Alanine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Arginine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Asparagine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Aspartic Acid": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Cysteine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glutamic Acid": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glutamine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glycine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Histidine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Isoleucine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Leucine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Lysine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Methionine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Phenylalanine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Proline": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Serine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Threonine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Tryptophan": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Tyrosine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Valine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            }
+        },
+        "time_dict_2": {
+            "Alanine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Arginine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Asparagine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Aspartic Acid": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Cysteine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glutamic Acid": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glutamine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Glycine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Histidine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Isoleucine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Leucine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Lysine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Methionine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Phenylalanine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Proline": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Serine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Threonine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Tryptophan": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Tyrosine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            },
+            "Valine": {
+                "Alanine": 1.0,
+                "Arginine": 1.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 1.0,
+                "Glycine": 1.0,
+                "Histidine": 1.0,
+                "Isoleucine": 1.0,
+                "Leucine": 1.0,
+                "Lysine": 1.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 1.0,
+                "Proline": 1.0,
+                "Serine": 1.0,
+                "Threonine": 1.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 1.0,
+                "Valine": 1.0
+            }
+        },
+        "time_dict_3": {
+            "Alanine": {
+                "Alanine": 1.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Arginine": {
+                "Alanine": 0.0,
+                "Arginine": 1.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Asparagine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 1.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Aspartic Acid": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 1.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Cysteine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 1.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Glutamic Acid": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 1.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Glutamine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 1.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Glycine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 1.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Histidine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 1.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Isoleucine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 1.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Leucine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 1.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Lysine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 1.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Methionine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 1.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Phenylalanine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 1.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Proline": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 1.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Serine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 1.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Threonine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 1.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Tryptophan": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 1.0,
+                "Tyrosine": 0.0,
+                "Valine": 0.0
+            },
+            "Tyrosine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 1.0,
+                "Valine": 0.0
+            },
+            "Valine": {
+                "Alanine": 0.0,
+                "Arginine": 0.0,
+                "Asparagine": 0.0,
+                "Aspartic Acid": 0.0,
+                "Cysteine": 0.0,
+                "Glutamic Acid": 0.0,
+                "Glutamine": 0.0,
+                "Glycine": 0.0,
+                "Histidine": 0.0,
+                "Isoleucine": 0.0,
+                "Leucine": 0.0,
+                "Lysine": 0.0,
+                "Methionine": 0.0,
+                "Phenylalanine": 0.0,
+                "Proline": 0.0,
+                "Serine": 0.0,
+                "Threonine": 0.0,
+                "Tryptophan": 0.0,
+                "Tyrosine": 0.0,
+                "Valine": 1.0
+            }
+        }
+    },
+    "Processed Acids": {
+        "time_dict_1": {
+            "Alanine": [
+                ""
+            ],
+            "Arginine": [
+                ""
+            ],
+            "Asparagine": [
+                ""
+            ],
+            "Aspartic Acid": [
+                ""
+            ],
+            "Cysteine": [
+                ""
+            ],
+            "Glutamic Acid": [
+                ""
+            ],
+            "Glutamine": [
+                ""
+            ],
+            "Glycine": [
+                ""
+            ],
+            "Histidine": [
+                ""
+            ],
+            "Isoleucine": [
+                ""
+            ],
+            "Leucine": [
+                ""
+            ],
+            "Lysine": [
+                ""
+            ],
+            "Methionine": [
+                ""
+            ],
+            "Phenylalanine": [
+                ""
+            ],
+            "Proline": [
+                ""
+            ],
+            "Serine": [
+                ""
+            ],
+            "Threonine": [
+                ""
+            ],
+            "Tryptophan": [
+                ""
+            ],
+            "Tyrosine": [
+                ""
+            ],
+            "Valine": [
+                ""
+            ]
+        },
+        "time_dict_2": {
+            "Alanine": [
+                ""
+            ],
+            "Arginine": [
+                ""
+            ],
+            "Asparagine": [
+                ""
+            ],
+            "Aspartic Acid": [
+                ""
+            ],
+            "Cysteine": [
+                ""
+            ],
+            "Glutamic Acid": [
+                ""
+            ],
+            "Glutamine": [
+                ""
+            ],
+            "Glycine": [
+                ""
+            ],
+            "Histidine": [
+                ""
+            ],
+            "Isoleucine": [
+                ""
+            ],
+            "Leucine": [
+                ""
+            ],
+            "Lysine": [
+                ""
+            ],
+            "Methionine": [
+                ""
+            ],
+            "Phenylalanine": [
+                ""
+            ],
+            "Proline": [
+                ""
+            ],
+            "Serine": [
+                ""
+            ],
+            "Threonine": [
+                ""
+            ],
+            "Tryptophan": [
+                ""
+            ],
+            "Tyrosine": [
+                ""
+            ],
+            "Valine": [
+                ""
+            ]
+        },
+        "time_dict_3": {
+            "Alanine": [
+                "GCG",
+                "UCG",
+                "CCG",
+                "ACG"
+            ],
+            "Arginine": [
+                "GGA",
+                "CGC",
+                "UGC",
+                "GGC",
+                "AGC",
+                "AGA"
+            ],
+            "Asparagine": [
+                "UAA",
+                "CAA"
+            ],
+            "Aspartic Acid": [
+                "UAG",
+                "CAG"
+            ],
+            "Cysteine": [
+                "CGU",
+                "UGU"
+            ],
+            "Glutamic Acid": [
+                "AAG",
+                "GAG"
+            ],
+            "Glutamine": [
+                "AAC",
+                "GAC"
+            ],
+            "Glycine": [
+                "AGG",
+                "GGG",
+                "CGG",
+                "UGG"
+            ],
+            "Histidine": [
+                "UAC",
+                "CAC"
+            ],
+            "Isoleucine": [
+                "UUA",
+                "AUA",
+                "CUA"
+            ],
+            "Leucine": [
+                "AUU",
+                "GUC",
+                "GUU",
+                "AUC",
+                "UUC",
+                "CUC"
+            ],
+            "Lysine": [
+                "AAA",
+                "GAA"
+            ],
+            "Methionine": [
+                "GUA"
+            ],
+            "Phenylalanine": [
+                "CUU",
+                "UUU"
+            ],
+            "Proline": [
+                "CCC",
+                "GCC",
+                "ACC",
+                "UCC"
+            ],
+            "Serine": [
+                "ACU",
+                "CCU",
+                "UGA",
+                "UCU",
+                "CGA",
+                "GCU"
+            ],
+            "Threonine": [
+                "CCA",
+                "UCA",
+                "GCA",
+                "ACA"
+            ],
+            "Tryptophan": [
+                "GGU"
+            ],
+            "Tyrosine": [
+                "CAU",
+                "UAU"
+            ],
+            "Valine": [
+                "CUG",
+                "AUG",
+                "GUG",
+                "UUG"
+            ]
+        }
+    },
+    "Partitioned Bases": {
+        "time_dict_1": {
+            "": [
+                "Tyrosine",
+                "Lysine",
+                "Glutamic Acid",
+                "Leucine",
+                "Alanine",
+                "Glycine",
+                "Proline",
+                "Phenylalanine",
+                "Methionine",
+                "Valine",
+                "Threonine",
+                "Arginine",
+                "Isoleucine",
+                "Histidine",
+                "Aspartic Acid",
+                "Asparagine",
+                "Glutamine",
+                "Cysteine",
+                "Tryptophan",
+                "Serine"
+            ]
+        },
+        "time_dict_2": {
+            "": [
+                "Tyrosine",
+                "Lysine",
+                "Glutamic Acid",
+                "Leucine",
+                "Alanine",
+                "Glycine",
+                "Proline",
+                "Phenylalanine",
+                "Methionine",
+                "Valine",
+                "Threonine",
+                "Arginine",
+                "Isoleucine",
+                "Histidine",
+                "Aspartic Acid",
+                "Asparagine",
+                "Glutamine",
+                "Cysteine",
+                "Tryptophan",
+                "Serine"
+            ]
+        },
+        "time_dict_3": {
+            "ACG": [
+                "Alanine"
+            ],
+            "CCG": [
+                "Alanine"
+            ],
+            "GCG": [
+                "Alanine"
+            ],
+            "UCG": [
+                "Alanine"
+            ],
+            "AGC": [
+                "Arginine"
+            ],
+            "CGC": [
+                "Arginine"
+            ],
+            "GGC": [
+                "Arginine"
+            ],
+            "UGC": [
+                "Arginine"
+            ],
+            "AGA": [
+                "Arginine"
+            ],
+            "GGA": [
+                "Arginine"
+            ],
+            "CAA": [
+                "Asparagine"
+            ],
+            "UAA": [
+                "Asparagine"
+            ],
+            "CAG": [
+                "Aspartic Acid"
+            ],
+            "UAG": [
+                "Aspartic Acid"
+            ],
+            "CGU": [
+                "Cysteine"
+            ],
+            "UGU": [
+                "Cysteine"
+            ],
+            "AAG": [
+                "Glutamic Acid"
+            ],
+            "GAG": [
+                "Glutamic Acid"
+            ],
+            "AAC": [
+                "Glutamine"
+            ],
+            "GAC": [
+                "Glutamine"
+            ],
+            "AGG": [
+                "Glycine"
+            ],
+            "CGG": [
+                "Glycine"
+            ],
+            "GGG": [
+                "Glycine"
+            ],
+            "UGG": [
+                "Glycine"
+            ],
+            "CAC": [
+                "Histidine"
+            ],
+            "UAC": [
+                "Histidine"
+            ],
+            "AUA": [
+                "Isoleucine"
+            ],
+            "CUA": [
+                "Isoleucine"
+            ],
+            "UUA": [
+                "Isoleucine"
+            ],
+            "AUC": [
+                "Leucine"
+            ],
+            "CUC": [
+                "Leucine"
+            ],
+            "GUC": [
+                "Leucine"
+            ],
+            "UUC": [
+                "Leucine"
+            ],
+            "AUU": [
+                "Leucine"
+            ],
+            "GUU": [
+                "Leucine"
+            ],
+            "AAA": [
+                "Lysine"
+            ],
+            "GAA": [
+                "Lysine"
+            ],
+            "GUA": [
+                "Methionine"
+            ],
+            "CUU": [
+                "Phenylalanine"
+            ],
+            "UUU": [
+                "Phenylalanine"
+            ],
+            "ACC": [
+                "Proline"
+            ],
+            "CCC": [
+                "Proline"
+            ],
+            "GCC": [
+                "Proline"
+            ],
+            "UCC": [
+                "Proline"
+            ],
+            "CGA": [
+                "Serine"
+            ],
+            "UGA": [
+                "Serine"
+            ],
+            "ACU": [
+                "Serine"
+            ],
+            "CCU": [
+                "Serine"
+            ],
+            "GCU": [
+                "Serine"
+            ],
+            "UCU": [
+                "Serine"
+            ],
+            "ACA": [
+                "Threonine"
+            ],
+            "CCA": [
+                "Threonine"
+            ],
+            "GCA": [
+                "Threonine"
+            ],
+            "UCA": [
+                "Threonine"
+            ],
+            "GGU": [
+                "Tryptophan"
+            ],
+            "CAU": [
+                "Tyrosine"
+            ],
+            "UAU": [
+                "Tyrosine"
+            ],
+            "AUG": [
+                "Valine"
+            ],
+            "CUG": [
+                "Valine"
+            ],
+            "GUG": [
+                "Valine"
+            ],
+            "UUG": [
+                "Valine"
+            ]
+        }
+    },
+    "Groups": {
+        "time_dict_1": {
+            "1": [
+                "Tyrosine",
+                "Lysine",
+                "Glutamic Acid",
+                "Leucine",
+                "Alanine",
+                "Glycine",
+                "Proline",
+                "Phenylalanine",
+                "Valine",
+                "Methionine",
+                "Threonine",
+                "Arginine",
+                "Isoleucine",
+                "Histidine",
+                "Aspartic Acid",
+                "Asparagine",
+                "Glutamine",
+                "Cysteine",
+                "Tryptophan",
+                "Serine"
+            ]
+        },
+        "time_dict_2": {
+            "1": [
+                "Tyrosine",
+                "Lysine",
+                "Glutamic Acid",
+                "Leucine",
+                "Alanine",
+                "Glycine",
+                "Proline",
+                "Phenylalanine",
+                "Valine",
+                "Methionine",
+                "Threonine",
+                "Arginine",
+                "Isoleucine",
+                "Histidine",
+                "Aspartic Acid",
+                "Asparagine",
+                "Glutamine",
+                "Cysteine",
+                "Tryptophan",
+                "Serine"
+            ]
+        },
+        "time_dict_3": {
+            "1": [
+                "Tyrosine"
+            ],
+            "2": [
+                "Lysine"
+            ],
+            "3": [
+                "Glutamic Acid"
+            ],
+            "4": [
+                "Leucine"
+            ],
+            "5": [
+                "Alanine"
+            ],
+            "6": [
+                "Glycine"
+            ],
+            "7": [
+                "Proline"
+            ],
+            "8": [
+                "Phenylalanine"
+            ],
+            "9": [
+                "Methionine"
+            ],
+            "10": [
+                "Valine"
+            ],
+            "11": [
+                "Threonine"
+            ],
+            "12": [
+                "Arginine"
+            ],
+            "13": [
+                "Isoleucine"
+            ],
+            "14": [
+                "Histidine"
+            ],
+            "15": [
+                "Aspartic Acid"
+            ],
+            "16": [
+                "Asparagine"
+            ],
+            "17": [
+                "Glutamine"
+            ],
+            "18": [
+                "Cysteine"
+            ],
+            "19": [
+                "Tryptophan"
+            ],
+            "20": [
+                "Serine"
+            ]
+        }
+    }
+}
